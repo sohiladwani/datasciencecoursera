@@ -1,2 +1,2 @@
 # datasciencecoursera
-My DataScience Course projects etc will be located in here.
+This works by grabbing all the data using read.csv. Combining it, using functions like grepl that we learnt and finding some means and standard devations to finish it off!
